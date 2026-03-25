@@ -1,0 +1,18 @@
+DM 1
+Hey {lead_name}, I came across {company_name} and was really impressed by what you're building. I noticed {personalized_detail} — that's no small feat.
+
+I help companies like yours solve {pain_point}. Would love to share a quick idea that might be relevant. Open to a brief chat this week?
+
+---
+
+DM 2
+Hi {lead_name}, just following up on my last message. I've been thinking more about {company_name} and how {specific_insight} could be a game-changer for you.
+
+We recently helped a similar company achieve {relevant_result}. Happy to walk you through it — no strings attached. Worth 15 minutes?
+
+---
+
+DM 3
+Hey {lead_name}, last note from me — I know you're busy building {company_name}. Just wanted to leave you with this: {value_proposition}.
+
+If the timing isn't right now, totally understand. But if {pain_point} is on your radar, I'd love to connect whenever it makes sense. Either way, keep crushing it!
